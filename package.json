@@ -1,0 +1,12 @@
+{
+  "name": "@djs-core/prisma-plugin",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.ts",
+  "exports": {
+    "import": "./index.ts"
+  },
+  "peerDependencies": {
+    "djs-core": "latest"
+  }
+} 
