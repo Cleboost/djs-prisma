@@ -8,5 +8,8 @@
   },
   "peerDependencies": {
     "djs-core": "latest"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 } 
